@@ -92,7 +92,7 @@ nav {
 .promo {
   width: 100%;
   min-height: 800px;
-  background: url(/src/img/uber_bg.png) center center/cover no-repeat;
+  background: url(../img/uber_bg.png) center center/cover no-repeat;
   padding: 150px 0 135px 0;
 }
 .promo_header {
@@ -739,8 +739,8 @@ footer {
   }
   .promo_btn {
     width: 210px;
-    width-height: 50px;
-    width-margin-top: 72px;
+    height: 50px;
+    margin-top: 72px;
   }
   .menu {
     width: 85%;
